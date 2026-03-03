@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="birthday_text">Happy Birthday Eeksha</string>
+    <string name="signature_text">From XYZ</string>
+</resources>
